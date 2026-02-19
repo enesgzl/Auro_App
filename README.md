@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/0f172a/0bd3d3?text=AURO+LOGO" width="120" alt="Auro Logo">
   <h1>🌌 Auro: Akıllı Yaşam Asistanı</h1>
   <p>
     <b>Sıradan listeleri çöpe atın. Auro, gününüzü zamana göre değil enerjinize göre orkestre eden, yapay zeka destekli  asistanınızdır.</b>
@@ -35,7 +34,7 @@ Auro'nun mimarisi sadece işlevsellik üzerine değil, psikolojik rahatlama üze
   </tr>
   <tr>
     <td align="center"><img src="assets/duygu.png" width="250" alt="Zihin Durumu Ekranı"></td>
-    <td align="center"><img src="assets/dashboard.png" width="250" alt="Dashboard Ekranı"></td>
+    <td align="center"><img src="assets/dashbord.png" width="250" alt="Dashboard Ekranı"></td>
   </tr>
   <tr>
     <td align="center"><b>3. Entegre Odak (Deep Work)</b><br>Sistem içi seslerle (Deep Rain) odak sayacı.</td>
@@ -44,6 +43,14 @@ Auro'nun mimarisi sadece işlevsellik üzerine değil, psikolojik rahatlama üze
   <tr>
     <td align="center"><img src="assets/ai.png" width="250" alt="Odak Ekranı"></td>
     <td align="center"><img src="assets/takvim.png" width="250" alt="Takvim Ekranı"></td>
+  </tr>
+   <tr>
+    <td align="center"><b>1. Giriş ekranı</b><br></td>
+    <td align="center"><b>Görevler Ekranı</b><br>Görevlerini kontrol et.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/login.png" width="250" alt="Odak Ekranı"></td>
+    <td align="center"><img src="assets/görevler.png" width="250" alt="Takvim Ekranı"></td>
   </tr>
 </table>
 
