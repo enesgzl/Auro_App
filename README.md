@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://via.placeholder.com/150/0f172a/0bd3d3?text=AURO+LOGO" width="120" alt="Auro Logo">
-  <h1>🌌 Auro: Akıllı Yaşam ve Odak Asistanı</h1>
+  <h1>🌌 Auro: Akıllı Yaşam Asistanı</h1>
   <p>
-    <b>Sıradan listeleri çöpe atın. Auro, gününüzü zamana göre değil enerjinize göre orkestre eden, yapay zeka destekli fütüristik odak asistanıdır.</b>
+    <b>Sıradan listeleri çöpe atın. Auro, gününüzü zamana göre değil enerjinize göre orkestre eden, yapay zeka destekli  asistanınızdır.</b>
   </p>
 
   <p>
@@ -16,6 +16,7 @@
 ---
 
 ## 💡 Neden Auro?
+Auro, zihinsel sağlığınızı korurken üretkenliğinizi artırmayı hedefleyen, yapay zeka destekli yeni nesil bir görev ve odak yöneticisidir. Kaosu düzene çeviren "Aurora" temalı premium tasarımı ile uygulamanın içinde vakit geçirmek bir görev değil, terapi hissi verir.
 
 Geleneksel "Yapılacaklar (To-Do)" uygulamaları devasa bir mimari hataya sahiptir: **İnsanların her saat aynı enerji seviyesinde makine gibi çalışacağını varsayarlar.** Alt alta yığılan bitmemiş görevler sadece anksiyete yaratır.
 
@@ -33,7 +34,7 @@ Auro'nun mimarisi sadece işlevsellik üzerine değil, psikolojik rahatlama üze
     <td align="center"><b>2. Enerji Bazlı Planlama</b><br>Kaostan düzene geçen akıllı "Dashboard".</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/zihin_durumu.png" width="250" alt="Zihin Durumu Ekranı"></td>
+    <td align="center"><img src="assets/duygu.png" width="250" alt="Zihin Durumu Ekranı"></td>
     <td align="center"><img src="assets/dashboard.png" width="250" alt="Dashboard Ekranı"></td>
   </tr>
   <tr>
@@ -41,14 +42,16 @@ Auro'nun mimarisi sadece işlevsellik üzerine değil, psikolojik rahatlama üze
     <td align="center"><b>4. Dinamik Takvim & Gelişim</b><br>Zorluk derecelerini renk kodlarıyla analiz et.</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/focus_timer.png" width="250" alt="Odak Ekranı"></td>
+    <td align="center"><img src="assets/ai.png" width="250" alt="Odak Ekranı"></td>
     <td align="center"><img src="assets/takvim.png" width="250" alt="Takvim Ekranı"></td>
   </tr>
 </table>
 
 ### 🚀 Öne Çıkan Modüller
-* **🧠 AI Görev Orkestrasyonu:** Görevleri "Çok Zor", "Orta" ve "Kolay" olarak etiketler. Zihniniz yorgunsa basit görevleri, enerjikseniz zor projeleri öne çıkarır.
+* **🧠 Enerji ve Ruh Haline Göre Planlama:** Klasik alt alta yığılan listeler yerine, o anki ruh halinize ve enerji seviyenize (Çok Zor, Orta, Kolay) göre "Sıradaki Odağı" belirler.
+* **🎨 Premium Glassmorphism Arayüzü:** Göz yormayan, derin uzay ve kuzey ışıklarından ilham alan karanlık tema (Dark Mode) ve buzlu cam detayları.
 * **🌙 Aurora UI (Glassmorphism):** Mesh gradient arka planlar ve buzlu cam detayları. Karanlık mod ile göz yormayan, premium hissiyat.
+* **📊 Dinamik Takvim ve İstatistikler:** Tüm ayınızı zorluk derecelerine göre renk kodlarıyla analiz edin ve gün sonu motivasyonunuzu artırın.
 
 ---
 
@@ -63,4 +66,3 @@ Auro, yüksek performans, kusursuz animasyonlar ve ölçeklenebilirlik prensiple
 * **Yapay Zeka (AI):** Kullanıcı niyeti analizi ve gün planlama algoritması için özel entegrasyon.
 
 ---
-
