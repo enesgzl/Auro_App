@@ -37,16 +37,16 @@ Auro'nun mimarisi sadece işlevsellik üzerine değil, psikolojik rahatlama üze
     <td align="center"><img src="assets/ai.png" width="250" alt="Odak Ekranı"></td>
   </tr>
   <tr>
-    <td align="center"><b>1. Zihin Durumu & Empati</b><br>Kullanıcıyı anlayan yapay zeka akışı.</td>
-    <td align="center"><b>2. Enerji Bazlı Planlama</b><br>Kaostan düzene geçen akıllı "Dashboard".</td>
+    <td align="center"><b>3. Zihin Durumu & Empati</b><br>Kullanıcıyı anlayan yapay zeka akışı.</td>
+    <td align="center"><b>4. Dashboard Ekranı</b><br>Kaostan düzene geçen akıllı "Dashboard".</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/duygu.png" width="250" alt="Zihin Durumu Ekranı"></td>
    <td align="center"><img src="assets/dashbord.png" width="250" alt="Dashboard Ekranı"></td>
   </tr>
    <tr>
-     <td align="center"><b>4. Dinamik Takvim & Gelişim</b><br>Zorluk derecelerini renk kodlarıyla analiz et.</td>
-    <td align="center"><b>Görevler Ekranı</b><br>Görevlerini kontrol et.</td>
+     <td align="center"><b>5. Dinamik Takvim & Gelişim</b><br>Zorluk derecelerini renk kodlarıyla analiz et.</td>
+    <td align="center"><b>6.Görevler Ekranı</b><br>Görevlerini kontrol et.</td>
   </tr>
   <tr>
    <td align="center"><img src="assets/takvim.png" width="250" alt="Takvim Ekranı"></td>
